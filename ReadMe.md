@@ -1,6 +1,8 @@
-<h2>About this course:</h2>
+<h2>About this project:</h2>
 
 This webscraper is my project for the [Data Engineering with Python Course at Platzi](https://platzi.com/clases/ingenieria-datos/) 
+
+As well, this project is part of the Platzi Master program -- an education acceleration program to form the future tech leaders in LATAM. 
 
 <h2>Brief description:</h2>
 
